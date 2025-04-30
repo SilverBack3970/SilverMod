@@ -1,0 +1,35 @@
+{
+  "item.mccourse.silver": "Silver",
+  "item.mccourse.raw_silver": "Raw Silver",
+
+  "item.mccourse.silver_axe": "Silver Axe",
+  "item.mccourse.silver_hoe": "Silver Hoe",
+  "item.mccourse.silver_pickaxe": "Silver Pickaxe",
+  "item.mccourse.silver_shovel": "Silver Shovel",
+  "item.mccourse.silver_sword": "Silver Sword",
+  "item.mccourse.silver_paxel": "Silver Paxel",
+
+  "item.mccourse.silver_helmet": "Silver Helmet",
+  "item.mccourse.silver_chestplate": "Silverte Chestplate",
+  "item.mccourse.silver_leggings": "Silver Leggings",
+  "item.mccourse.silver_boots": "Silvere Boots",
+
+  "block.mccourse.silver_block": "Block of Silver",
+  "block.mccourse.raw_silver_block": "Block of Raw Silver",
+
+  "block.mccourse.silver_ore": "Silver Ore",
+  "block.mccourse.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.mccourse.end_stone_silver_ore": "End Stone Silver Ore",
+  "block.mccourse.nether_silver_ore": "Nether Silver Ore",
+
+  "block.mccourse.silver_pressure_plate": "Silver Pressure Plate",
+  "block.mccourse.silver_button": "Silver Button",
+  "block.mccourse.silver_fence": "Silver Fence",
+  "block.mccourse.silver_fence_gate": "Silver Fence Gate",
+  "block.mccourse.silver_wall": "Silver Wall",
+  "block.mccourse.silver_door": "Silver Door",
+  "block.mccourse.silver_trapdoor": "Silver Trapdoor",
+
+  "creativetab.silver_tab": "Silver Tab"
+
+}

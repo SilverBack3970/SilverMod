@@ -1,0 +1,35 @@
+{
+  "item.mccourse.silver": "Argento",
+  "item.mccourse.raw_silver": "Argento Grezzo",
+
+  "item.mccourse.silver_axe": "Ascia d'Argento",
+  "item.mccourse.silver_hoe": "Zappa d'Argento",
+  "item.mccourse.silver_pickaxe": "Piccone d'Argento",
+  "item.mccourse.silver_shovel": "Pala d'Argento",
+  "item.mccourse.silver_sword": "Spada d'Argento",
+  "item.mccourse.silver_paxel": "Paxel d'Argento",
+
+  "item.mccourse.silver_helmet": "Elmo d'Argento",
+  "item.mccourse.silver_chestplate": "Corpetto d'Argento",
+  "item.mccourse.silver_leggings": "Pantaloni d'Argento",
+  "item.mccourse.silver_boots": "Stivali d'Argento",
+
+  "block.mccourse.silver_block": "Blocco d'Argento",
+  "block.mccourse.raw_silver_block": "Blocco d'Argento Grezzo",
+
+  "block.mccourse.silver_ore": "Minerale d'Argento",
+  "block.mccourse.deepslate_silver_ore": "Minerale d'Argento di Deepslate",
+  "block.mccourse.end_stone_silver_ore": "Minerale d'Argento di End Stone",
+  "block.mccourse.nether_silver_ore": "Minerale d'Argento del Nether",
+
+  "block.mccourse.silver_pressure_plate": "Pedana a Pressione d'Argento",
+  "block.mccourse.silver_button": "Bottone d'Argento",
+  "block.mccourse.silver_fence": "Recinzione d'Argento",
+  "block.mccourse.silver_fence_gate": "Porticina d'Argento",
+  "block.mccourse.silver_wall": "Muro d'Argento",
+  "block.mccourse.silver_door": "Porta d'Argento",
+  "block.mccourse.silver_trapdoor": "Botola d'Argento",
+
+  "creativetab.silver_tab": "Silver Mod"
+
+}
